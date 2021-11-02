@@ -1,6 +1,6 @@
 {
   "name": "react_components_self_mjj",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.0",
   "description": "基于antd的react组件库",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/1054264210/react-components/issues"
   },
-  "homepage": "https://github.com/1054264210/react-components#readme"
+  "homepage": "https://github.com/1054264210/react-components#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
 }
